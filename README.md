@@ -143,11 +143,17 @@ on systemboot
 
 In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
 Answer
+
 Install docker.io
+
 Install pip3
+
 Install Docker python module
+
 Increase virtual memory
+
 Download and launch a docker
+
 - ...
 - ...
 
