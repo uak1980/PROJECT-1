@@ -9,12 +9,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
-
-  - Installing-elk.yml
-  - filebeat-playbook.yml
-  - metricbeat-playbook.yml
-
+[This is where i have saved my playbooks](https://github.com/uak1980/PROJECT-1/tree/main/ansible)
 
 
 This document contains the following details:
@@ -162,6 +157,7 @@ Answer
 
 ![TODO: 
 ![Docker_PS-ELK Server](https://user-images.githubusercontent.com/86211993/122695288-f6aef100-d20d-11eb-8668-955a0258d69d.PNG)
+
 
 
 CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS      PORTS                                                                              NAMES
